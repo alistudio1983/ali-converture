@@ -1,0 +1,296 @@
+{
+  "sections": [
+    {
+      "id": "PBS-5fho921776084137786",
+      "name": "column",
+      "blocks": {
+        "parameters": {
+          "columns": "1",
+          "grid-on-mobile": false,
+          "columns-gap": "20",
+          "rows-gap": "20",
+          "columns-distribution": []
+        },
+        "style": {
+          "section-alignment": "center",
+          "vertical-alignment": "center",
+          "is-full-width": false,
+          "width": "700",
+          "height": null,
+          "border-radius-top-left": 0,
+          "border-radius-top-right": 0,
+          "border-radius-bottom-right": 0,
+          "border-radius-bottom-left": 0,
+          "margin-top": "10",
+          "margin-right": 0,
+          "margin-bottom": "10",
+          "margin-left": 0,
+          "padding-top": 0,
+          "padding-right": 0,
+          "padding-bottom": 0,
+          "padding-left": 0,
+          "background-color": "#1A6B5AFF",
+          "background-image": null,
+          "background-repeat": "no-repeat",
+          "background-position": "center",
+          "background-size": "cover",
+          "css-content": "{ }"
+        }
+      },
+      "label": "شريط الإشعارات",
+      "children": [
+        {
+          "id": "PBS-1ilywf1776084137786",
+          "name": "title",
+          "blocks": {
+            "parameters": {
+              "text": "🚚 شحن مجاني | دفع آمن | جودة مضمونة",
+              "subtitle": null,
+              "style": "style-1",
+              "url": null
+            },
+            "style": {
+              "text-alignment": "center",
+              "font-size": "0.9",
+              "text-color": "#FFFFFFFF",
+              "accent-color": "#ff6e55",
+              "font-family": null,
+              "font-weight": "bold",
+              "text-decoration": "none",
+              "line-height": 150,
+              "letter-spacing": 0,
+              "subtitle-text-alignment": "center",
+              "space-between-title": "10",
+              "subtitle-font-size": "1.3",
+              "subtitle-text-color": "#4A4A4AFF",
+              "subtitle-font-family": null,
+              "subtitle-font-weight": "normal",
+              "subtitle-text-decoration": "none",
+              "subtitle-line-height": 150,
+              "subtitle-letter-spacing": 0,
+              "title-alignment": "center",
+              "margin-top": "5",
+              "margin-right": "10",
+              "margin-bottom": "5",
+              "margin-left": "10",
+              "padding-top": 0,
+              "padding-right": "10",
+              "padding-bottom": 0,
+              "padding-left": "10",
+              "background-color": "transparent",
+              "css-content": "{ }"
+            }
+          },
+          "label": "إشعار",
+          "children": null
+        }
+      ]
+    },
+    {
+      "id": "PBS-4d69ca1776084137786",
+      "name": "row",
+      "blocks": {
+        "parameters": {
+          "rows-gap": 0
+        },
+        "style": {
+          "section-alignment": "center",
+          "is-full-width": true,
+          "width": null,
+          "border-radius-top-left": 0,
+          "border-radius-top-right": 0,
+          "border-radius-bottom-right": 0,
+          "border-radius-bottom-left": 0,
+          "margin-top": "0",
+          "margin-right": "10",
+          "margin-bottom": "10",
+          "margin-left": "10",
+          "padding-top": 0,
+          "padding-right": 0,
+          "padding-bottom": 0,
+          "padding-left": 0,
+          "background-color": "#F5F9F7FF",
+          "background-image": null,
+          "background-repeat": "no-repeat",
+          "background-position": "center",
+          "background-size": "cover",
+          "css-content": "{ }"
+        }
+      },
+      "label": "القسم الرئيسي",
+      "children": [
+        {
+          "id": "PBS-09k9sg1776084137786",
+          "name": "title",
+          "blocks": {
+            "parameters": {
+              "text": "حوّل حمامك اليومي إلى واحة استرخاء فاخرة!",
+              "subtitle": "اكتشف سر الاسترخاء المطلق والتجديد العميق مع كرات الحمام الفوارة الطبيعية التي تغذي بشرتك وتهدئ روحك.",
+              "style": "style-1",
+              "url": null
+            },
+            "style": {
+              "text-alignment": "center",
+              "font-size": "2.2",
+              "text-color": "#1A6B5AFF",
+              "accent-color": "#ff6e55",
+              "font-family": null,
+              "font-weight": "bold",
+              "text-decoration": "none",
+              "line-height": 150,
+              "letter-spacing": 0,
+              "subtitle-text-alignment": "center",
+              "space-between-title": "10",
+              "subtitle-font-size": "1.3",
+              "subtitle-text-color": "#4A4A4AFF",
+              "subtitle-font-family": null,
+              "subtitle-font-weight": "normal",
+              "subtitle-text-decoration": "none",
+              "subtitle-line-height": 150,
+              "subtitle-letter-spacing": 0,
+              "title-alignment": "center",
+              "margin-top": "20",
+              "margin-right": "10",
+              "margin-bottom": "10",
+              "margin-left": "10",
+              "padding-top": 0,
+              "padding-right": "10",
+              "padding-bottom": 0,
+              "padding-left": "10",
+              "background-color": "transparent",
+              "css-content": "{ }"
+            }
+          },
+          "label": "العنوان الرئيسي",
+          "children": null
+        },
+        {
+          "id": "PBS-ks2ljg1776084137786",
+          "name": "title",
+          "blocks": {
+            "parameters": {
+              "text": "✅ استرخاء فوري ومزيل للتوتر | ✅ بشرة ناعمة ومرطبة بعمق | ✅ تجربة سبا منزلية فاخرة",
+              "subtitle": null,
+              "style": "style-1",
+              "url": null
+            },
+            "style": {
+              "text-alignment": "center",
+              "font-size": "1",
+              "text-color": "#1A6B5AFF",
+              "accent-color": "#ff6e55",
+              "font-family": null,
+              "font-weight": "bold",
+              "text-decoration": "none",
+              "line-height": 150,
+              "letter-spacing": 0,
+              "subtitle-text-alignment": "center",
+              "space-between-title": "10",
+              "subtitle-font-size": "1.3",
+              "subtitle-text-color": "#4A4A4AFF",
+              "subtitle-font-family": null,
+              "subtitle-font-weight": "normal",
+              "subtitle-text-decoration": "none",
+              "subtitle-line-height": 150,
+              "subtitle-letter-spacing": 0,
+              "title-alignment": "center",
+              "margin-top": "5",
+              "margin-right": "10",
+              "margin-bottom": "5",
+              "margin-left": "10",
+              "padding-top": 0,
+              "padding-right": "10",
+              "padding-bottom": 0,
+              "padding-left": "10",
+              "background-color": "transparent",
+              "css-content": "{ }"
+            }
+          },
+          "label": "المزايا",
+          "children": null
+        },
+        {
+          "id": "PBS-apgc4v1776084137786",
+          "name": "title",
+          "blocks": {
+            "parameters": {
+              "text": "+5000 عميل سعيد حول العالم ⭐⭐⭐⭐⭐",
+              "subtitle": null,
+              "style": "style-1",
+              "url": null
+            },
+            "style": {
+              "text-alignment": "center",
+              "font-size": "1.2",
+              "text-color": "#F5A623FF",
+              "accent-color": "#ff6e55",
+              "font-family": null,
+              "font-weight": "bold",
+              "text-decoration": "none",
+              "line-height": 150,
+              "letter-spacing": 0,
+              "subtitle-text-alignment": "center",
+              "space-between-title": "10",
+              "subtitle-font-size": "1.3",
+              "subtitle-text-color": "#4A4A4AFF",
+              "subtitle-font-family": null,
+              "subtitle-font-weight": "normal",
+              "subtitle-text-decoration": "none",
+              "subtitle-line-height": 150,
+              "subtitle-letter-spacing": 0,
+              "title-alignment": "center",
+              "margin-top": "5",
+              "margin-right": "10",
+              "margin-bottom": "10",
+              "margin-left": "10",
+              "padding-top": 0,
+              "padding-right": "10",
+              "padding-bottom": 0,
+              "padding-left": "10",
+              "background-color": "transparent",
+              "css-content": "{ }"
+            }
+          },
+          "label": "الدليل الاجتماعي",
+          "children": null
+        },
+        {
+          "id": "PBS-tbkcvi1776084137786",
+          "name": "link-button",
+          "blocks": {
+            "parameters": {
+              "content": "<p><strong>اطلب الآن واستمتع بالاسترخاء!</strong></p>",
+              "icon-choice": "font-awesome",
+              "icon-class": "fas fa-shopping-cart",
+              "icon-image": null,
+              "type": "scroll-to-section",
+              "target-section": "PBS-2e9zms1776084137786",
+              "target-external-section": null,
+              "sticky-mobile": false,
+              "sticky-desktop": false
+            },
+            "style": {
+              "button-alignment": "center",
+              "is-full-width": false,
+              "width": "300",
+              "height": null,
+              "margin-top": "10",
+              "margin-right": "10",
+              "margin-bottom": "10",
+              "margin-left": "10",
+              "padding-top": "10",
+              "padding-right": "10",
+              "padding-bottom": "10",
+              "padding-left": "10",
+              "background-color": "#F5A623FF",
+              "hover-background-color": "#E8941AFF",
+              "active-background-color": "#E8941AFF",
+              "container-desktop-background-color": "transparent",
+              "container-mobile-background-color": "transparent",
+              "font-size": "18",
+              "line-height": 150,
+              "letter-spacing": 0,
+              "text-vertical-alignment": "center",
+              "text-horizontal-alignment": "center",
+              "text-color": "#FFFFFF",
+   
